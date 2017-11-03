@@ -1,0 +1,459 @@
+@media all and (max-width: 1400px) {
+ .content .text-intro{
+    width:1000px;
+  }
+    
+ .wrapper-columnas{
+    width:1000px;
+  }
+    .content .text-intro .bloque { min-width: 280px;
+}
+    .padding { padding-top: 25vh;}
+    
+/*
+  **************************
+  1180 px to 1330 px
+  **************************
+  */
+
+@media all and (max-width: 1330px) and (min-width: 1180px) {
+
+.header-margin{
+    width:1000px;
+  }
+
+  .content .text-intro{
+    width:1000px;
+  }
+   .wrapper-columnas{
+    width:1000px;
+  }
+    
+    
+.bloque {width: 30%;   
+}
+
+
+  .footer-margin{
+    width:1000px;
+  }
+
+  .content .text-intro h1, .content .text-intro p{
+    width:70%;
+  }
+
+    
+.padding { padding-top: 25vh;}
+    
+    
+    
+  #full{
+    width:1000px;
+  }
+
+  .prev-next{
+    max-width:1000px;
+  }
+
+
+     /*
+  **************************
+  about
+  **************************
+  */
+    
+    
+  /*
+  **************************
+  Portfolio Grid
+  **************************
+  */
+
+  #portfolio-sidebar{
+
+    width: 710px !important;
+    padding-right: 320px;
+  }
+
+  .portfolio-grid{
+
+    width:1030px;
+
+  }
+
+  .grid-hover, li.grid-item, li.grid-item img{
+    width:312px;
+  }
+
+
+}
+
+
+@media all and (max-width: 1179px) and (min-width: 1024px) {
+
+
+.header-margin{
+    width:800px;
+  }
+
+  .content .text-intro{
+    width:800px;
+  }
+.wrapper-columnas{
+    width:800px;
+  }
+
+.bloque {width: 30%;   
+}
+
+.padding { padding-top: 25vh;}
+    
+  .footer-margin{
+    width:800px;
+  }
+
+  .content .text-intro h1, .content .text-intro p{
+    width:60%;
+  }
+
+  #full{
+    width:800px;
+  }
+
+  .prev-next{
+    max-width:800px;
+  }
+
+
+  /*
+  **************************
+  Portfolio Grid
+  **************************
+  */
+
+  #portfolio-sidebar{
+
+    width: 580px !important;
+    padding-right: 250px;
+  }
+
+  .portfolio-grid{
+
+    width:830px;
+
+  }
+
+  .grid-hover, li.grid-item, li.grid-item img{
+    width:246px;
+  }
+
+}
+
+/*
+  **************************
+  1023 px to 769 px
+  **************************
+  */
+
+@media all and (max-width: 1023px) and (min-width: 769px) {
+
+
+.header-margin{
+    width:600px;
+  }
+
+  .content .text-intro{
+    width:600px;
+  }
+    
+ .wrapper-columnas{
+    width:600px;
+  }
+.bloque {width: 50%;   
+}
+    
+.padding { padding-top: 20vh;}
+    
+  .footer-margin{
+    width:600px;
+  }
+
+  .content .text-intro h1, .content .text-intro p{
+    width:100%;
+  }
+
+  #full{
+    width:600px;
+  }
+
+  .prev-next{
+    max-width:600px;
+  }
+  
+  .home-sidebar{
+    display:none;
+  }
+  
+  ul.header-nav{
+    width:30%;
+  
+  }
+  
+  header li > a{
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+ 
+
+
+  /*
+  **************************
+  Portfolio Grid
+  **************************
+  */
+
+  #portfolio-sidebar{
+
+    width:630px !important;
+    padding-right: 0;
+  }
+
+  .portfolio-grid{
+    width:630px;
+  }
+
+  .grid-hover, li.grid-item, li.grid-item img{
+    width:282px;
+  }
+
+}
+/*
+  **************************
+  481 px to 768 px IPAD PORTRAIT
+  **************************
+  */
+
+
+@media all and (max-width: 768px) and (min-width: 481px) {
+
+
+.header-margin{
+    width:400px;
+  }
+
+  .content .text-intro{
+    width:400px;
+  } 
+    
+   .wrapper-columnas{
+    width:400px;
+    min-height: 380px;
+  }
+    
+    .padding { padding-top: 20vhh;}
+
+  .footer-margin{
+    width:400px;
+  }
+
+  .content .text-intro h1, .content .text-intro p{
+    width:100% !important;
+  }
+.content .text-intro h1{
+    font-size:52px; 
+    line-height:48px;
+  }
+    
+  #full{
+    width:400px;
+    display:block !important;
+  }
+
+  .menu-index{
+    display:block !important;
+  }
+
+  .prev-next{
+    max-width:400px;
+  }
+  
+  .home-sidebar{
+    display:none;
+  }
+  
+  ul.header-nav{
+    width:30%;
+  
+  }
+  
+  header li > a{
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+ 
+  .one-column, .two-column{
+    width:100%;
+  }
+      
+  .one-column { margin-bottom:20px;}   
+    
+
+  .contact-one, .contact-two, .contact-three{
+    width:100%;
+  }
+  
+  textarea{
+    height:250px;
+  }
+
+  input.button-submit{
+    margin-bottom:100px;
+  }
+  
+  .logo{
+    display:block;
+  }
+
+  
+  #footer-left{text-align:center;}
+    
+  #mobile-toggle {
+  margin-left: 350px;
+}
+    
+
+  /*
+  **************************
+  Portfolio Grid
+  **************************
+  */
+
+  #portfolio-sidebar{
+
+    width:430px !important;
+    padding-right: 0;
+  }
+
+  .portfolio-grid{
+    width:430px;
+  }
+
+  .grid-hover, li.grid-item, li.grid-item img{
+    width:400px;
+  }
+
+}
+ /* TELEFONO*/
+
+
+@media all and (max-width: 480px) and (min-width: 320px) {
+
+
+.header-margin{
+    width:280px;
+  }
+
+  .content .text-intro{
+    width:280px;
+  }
+  .wrapper-columnas{
+  width:280px;
+  min-height: 450px;
+  }
+ .content .text-intro .bloque { max-width: 250px;
+}
+
+
+  .footer-margin{
+    width:280px;
+    line-height: 40px;
+  }
+  
+  .footer-margin .copyright{line-height:20px;}
+
+  .content .text-intro h1, .content .text-intro p, .content .text-intro .bloque{
+    width:100% !important;
+  }
+
+  #full{
+    width:280px;
+    display:block !important;
+  }
+  
+  .menu-index{
+    display:block !important;
+  }
+
+  .prev-next{
+    max-width:280px;
+  }
+  
+  .home-sidebar{
+    display:none;
+  }
+ 
+
+  .one-column, .two-column{
+    width:100%;
+  }
+  .one-column { margin-bottom:20px;}  
+      
+  .contact-one, .contact-two, .contact-three{
+    width:100%;
+  }
+  
+  textarea{
+    height:250px;
+  }
+  
+  input, textarea{
+    padding:0;
+  }
+
+  input.button-submit{
+    margin-bottom:100px;
+  }
+  
+  header.boxed{
+    display:none !important;
+  }  
+  
+  #footer-left{text-align:center;}
+  
+  .content .text-intro h1{
+    font-size:42px; 
+    line-height:50px;
+  }
+    .content .text-intro .bloque 
+    { font-size:24px; 
+    line-height:29px;
+    max-width: 280px;
+}
+
+    
+    #mobile-toggle {
+  margin-left: 240px;
+}
+    
+    
+  /*
+  **************************
+  Portfolio Grid
+  **************************
+  */
+
+  #portfolio-sidebar{
+
+    width:310px !important;
+    padding-right: 0;
+  }
+
+  .portfolio-grid{
+    width:310px;
+  }
+
+  .grid-hover, li.grid-item, li.grid-item img{
+    width:280px;
+  }
+
+
