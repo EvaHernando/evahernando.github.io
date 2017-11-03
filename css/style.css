@@ -501,7 +501,7 @@ nav ul li a.active {
 
 .btn-close {
   position: fixed;
-  top: 20px;
+  top: 120px;
   right: 20px;
   border: 1px solid #1c1b20;
   width: 40px;
