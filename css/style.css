@@ -779,7 +779,7 @@ header li:hover ul {
   margin: 0;
 }
 
-#naranja {
+.naranja {
   height: 100vh;
   background: #F4C20F;
   margin-top: 70PX;
